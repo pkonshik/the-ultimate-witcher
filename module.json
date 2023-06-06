@@ -196,14 +196,6 @@
         "manifest": "https://github.com/AnthonyMonette/TheWitcherTRPG/releases/latest/download/system.json",
         "compatibility": {}
       }
-    ],
-    "requires": [
-      {
-        "id": "compendium-folders",
-        "type": "module",
-        "manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/master/module.json",
-        "compatibility": {}
-      }
     ]
   },
   "url": "https://github.com/DKtric3L/the-ultimate-witcher.git",
